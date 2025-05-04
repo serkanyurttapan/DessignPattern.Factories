@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{4D8E3B87-AFD0-4B31-92A2-9F20C545DB76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousFactoryMethod", "AsynchronousFactoryMethod\AsynchronousFactoryMethod.csproj", "{44A2ED62-A762-40A3-B2A4-F28154187E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4D8E3B87-AFD0-4B31-92A2-9F20C545DB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D8E3B87-AFD0-4B31-92A2-9F20C545DB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D8E3B87-AFD0-4B31-92A2-9F20C545DB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A2ED62-A762-40A3-B2A4-F28154187E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A2ED62-A762-40A3-B2A4-F28154187E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A2ED62-A762-40A3-B2A4-F28154187E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A2ED62-A762-40A3-B2A4-F28154187E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
